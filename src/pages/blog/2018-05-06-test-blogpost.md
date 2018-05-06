@@ -12,6 +12,4 @@ testing
 
 testing
 
-
-
 ![Screenshot of site](/img/nyc.png)
